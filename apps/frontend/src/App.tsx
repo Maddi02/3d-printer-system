@@ -1,5 +1,9 @@
-const  App = () =>  (
-    <h1 className="text-yellow-500">Vite + React</h1>
-  )
+import AppRouter from "@/router/AppRouter";
+
+const App = () => {
+    return (
+        <AppRouter/>
+    )
+};
 
 export default App

@@ -12,9 +12,6 @@ NodeJS Version
 npm i
 ```
 
-
-
-
 ### run the api
 ```bash
  npm run api

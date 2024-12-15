@@ -30,3 +30,9 @@ npm i
  npm run lint
 ```
 
+### docker
+```bash
+docker-compose up
+```
+
+

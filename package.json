@@ -4,7 +4,8 @@
   "version": "1.0.0",
   "scripts": {
     "dev": "nx serve frontend",
-    "api": "nx serve api"
+    "api": "nx serve api",
+    "lint": "nx run-many --target=lint --projects=frontend,api,libs"
   },
   "dependencies": {
     "@emotion/react": "^11.11.3",

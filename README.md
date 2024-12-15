@@ -2,6 +2,19 @@
 
 ## Description
 
+NodeJS Version
+```bash
+  v18.20.5
+```
+
+## Installation
+```bash
+npm i
+```
+
+
+
+
 ### run the api
 ```bash
  npm run api
